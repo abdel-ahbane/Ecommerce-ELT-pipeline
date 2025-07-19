@@ -1,6 +1,9 @@
+# Libraries for data scripts
 pandas
-sqlalchemy
-psycopg2-binary
-python-dotenv
-apache-airflow
 faker
+python-dotenv
+psycopg2-binary
+SQLAlchemy
+
+# The command-line tool to control Airflow
+#astro-cli

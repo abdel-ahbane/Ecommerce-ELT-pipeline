@@ -1,0 +1,19 @@
+# Git and IDE files
+.git/
+.gitignore
+.idea/
+
+# Docker files
+Dockerfile
+docker-compose.yml
+
+# Python virtual environment and cache
+venv/
+__pycache__/
+*.pyc
+
+# Local data (we will manage data with Docker volumes instead)
+data/
+
+# Environment variables file
+.env

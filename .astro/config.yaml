@@ -1,0 +1,6 @@
+# .astro/config.yaml
+
+project:
+  name: ecommerce-elt-pipeline
+postgres:
+  port: 5433
